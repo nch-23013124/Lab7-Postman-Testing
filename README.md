@@ -10,6 +10,7 @@ Quản lý và lưu trữ kết quả kiểm thử bằng GitHub.
 API Thử nghiệm: JSONPlaceholder API (https://jsonplaceholder.typicode.com).
 
 3. Các Test Case thực hiện
+   
   Test Case 1: GET tất cả bài viết
 URL:"https://jsonplaceholder.typicode.com/posts"
 Kết quả: Status Code 200 OK, hiển thị danh sách toàn bộ bài viết dạng JSON.
